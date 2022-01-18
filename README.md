@@ -10,4 +10,12 @@ the main questions they'd like to answer:
 ● Where are customers with a high lifetime value based?\
 ● Do sales figures vary between geographic regions?
 
+**Data Sets:**\
+● DVD rental information for all customers and stores by Geography
+
+**Visual Presentation:**\
+● Link to Tableau: 
+https://public.tableau.com/views/Rockbuster_16364270821090/BlockbusterSalesAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link  
+
+
 ![Film](https://user-images.githubusercontent.com/91244538/149601974-a935e8d3-7701-4d4b-80ee-e1567442d04b.png)
